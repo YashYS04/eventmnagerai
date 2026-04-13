@@ -1,31 +1,28 @@
-# Event Manager AI 🚀
+# Event Sync AI 🚀
 
 An intelligent, AI-powered platform designed to streamline large-scale event logistics. This system integrates security, food court operations, gate control, and attendee assistance into a single unified ecosystem.
 
 ## 🌟 Key Features
 
-### 📅 Event Management
-* **Comprehensive Scheduling:** Create, update, and manage multiple event tracks and sessions.
+### 📅 Event Schedule
+* **Comprehensive Scheduling:** Manage multiple event tracks and sessions.
 * **Resource Tracking:** Manage venue allocations, equipment, and staff roles.
 * **Real-time Dashboard:** Monitor event progress and attendee metrics in one view.
 
 ### 🍴 Food Court Management
-* **Digital Menu & Ordering:** Vendor-specific menus with real-time order status tracking.
 * **Inventory Alerts:** Automated notifications for low-stock items.
 * **Queue Management:** AI-driven wait time estimation for each food stall.
 
 ### 🛡️ Security Management
-* **Personnel Coordination:** Real-time tracking and deployment of security staff.
+* **Personnel Coordination:** Real-time tracking of security staff.
 * **Incident Logging:** Quick-report system for security breaches or medical emergencies.
 * **Zone Monitoring:** Monitor restricted areas and VIP lounges.
 
 ### 🤖 AI Info Bot (Concierge)
 * **Natural Language Assistance:** Attendees can ask questions about schedules, booth locations, and facilities.
-* **Multi-channel Support:** Accessible via web, mobile app, or on-site kiosks.
 * **Personalized Recommendations:** Suggests sessions based on attendee interests.
 
 ### 🎟️ Gate Management
-* **Smart Entry/Exit:** QR-based ticket scanning for fast check-ins.
 * **Capacity Control:** Automatic entry suspension when a zone reaches maximum capacity.
 * **Credential Verification:** Seamless verification for staff, speakers, and VIPs.
 
@@ -33,14 +30,6 @@ An intelligent, AI-powered platform designed to streamline large-scale event log
 * **Density Mapping:** Live heatmaps to visualize crowd distribution across the venue.
 * **Bottleneck Detection:** AI alerts when movement slows down in high-traffic corridors.
 * **Evacuation Routing:** Intelligent routing logic for emergency scenarios.
-
-## 🛠 Tech Stack
-
-* **Frontend:** React.js / Next.js
-* **Backend:** Node.js (Express) or Python (FastAPI)
-* **AI/ML:** LangChain / OpenAI API (GPT-4)
-* **Database:** PostgreSQL (Relational) & Redis (Real-time tracking)
-* **Cloud:** AWS / Google Cloud
 
 ## 🚀 Getting Started
 
