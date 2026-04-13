@@ -1,6 +1,6 @@
-# Event Sync AI 🚀
+# Event Sync 🚀
 
-An intelligent, AI-powered platform designed to streamline large-scale event logistics. This system integrates security, food court operations, gate control, and attendee assistance into a single unified ecosystem.
+An intelligent, the platform designed to streamline large-scale event logistics. This system integrates security, food court operations, gate control, and attendee assistance into a single unified ecosystem.
 
 ## 🌟 Key Features
 
